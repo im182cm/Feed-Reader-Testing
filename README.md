@@ -5,7 +5,7 @@ In this project, there is a web-based application that reads RSS feeds. The orig
 
 ## How to run this project?
 
-One `index.html` to see if all tests pass.
+Open `index.html` to see if all tests pass.
 
 ## Why this Project?
 
